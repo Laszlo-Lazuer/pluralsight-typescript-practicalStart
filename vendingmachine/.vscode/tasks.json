@@ -6,6 +6,8 @@
         {
             "type": "typescript",
             "tsconfig": "tsconfig.json",
+            "args": ["-p", "ts"],
+            "showOutput": "silent",
             "problemMatcher": [
                 "$tsc"
             ],
