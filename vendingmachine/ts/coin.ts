@@ -14,6 +14,3 @@ class Quarter {
     }
 }
 
-var coin = new Quarter();
-var value = coin.Value;
-coin.Value = 25;
